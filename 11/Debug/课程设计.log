@@ -1,0 +1,13 @@
+﻿  源.cpp
+E:\编程数据结构\课程设计\源.cpp(118,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\编程数据结构\课程设计\源.cpp(134,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\编程数据结构\课程设计\源.cpp(215,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\编程数据结构\课程设计\源.cpp(243,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\编程数据结构\课程设计\源.cpp(26,34): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+E:\编程数据结构\课程设计\源.cpp(25): message : 在编译 类 模板 成员函数“const int chinese_dict<int>::hash(std::string)”时
+E:\编程数据结构\课程设计\源.cpp(48): message : 查看对正在编译的函数 模板 实例化“const int chinese_dict<int>::hash(std::string)”的引用
+E:\编程数据结构\课程设计\源.cpp(33): message : 在编译 类 模板 成员函数“chinese_dict<int>::chinese_dict(void)”时
+E:\编程数据结构\课程设计\源.cpp(206): message : 查看对正在编译的函数 模板 实例化“chinese_dict<int>::chinese_dict(void)”的引用
+E:\编程数据结构\课程设计\源.cpp(137): message : 查看对正在编译的 类 模板 实例化“chinese_dict<int>”的引用
+E:\编程数据结构\课程设计\源.cpp(26,49): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+  课程设计.vcxproj -> E:\编程数据结构\课程设计\Debug\课程设计.exe
